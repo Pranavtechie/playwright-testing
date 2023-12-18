@@ -1,0 +1,2 @@
+tabs: ["index.html", "style.css"]
+terminals: ["bun i && clear", "static-server -p $PUBLIC_PORT --no-cache"]

@@ -1,0 +1,12 @@
+{
+  "name": "multiverse-gallery-project",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "bun-types": "latest",
+    "playwright": "^1.40.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module"
+}
